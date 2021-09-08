@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Front-end Projects
-- 📫 How to reach me janesh2k@gmail.com
+- 📫 Reach me janesh2k@gmail.com
 
 <!---
 Janeshwaran/Janeshwaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
