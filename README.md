@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janeshwaran
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Creative Web Development
 - 🌱 I’m currently learning XR
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 Reach me janesh2k@gmail.com
